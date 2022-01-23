@@ -71,8 +71,7 @@ div{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 3px solid;
-    border-left: 10px solid;
+    border-width: 0px 0px 3px 10px;
     color: #000000;
 }
 
@@ -82,7 +81,7 @@ div{
 }
 
 .green{
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 10px solid;
